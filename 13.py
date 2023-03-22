@@ -14,7 +14,8 @@ console = Console()
 
 os.system('cls||clear')
 
-print(Panel.fit("""                                  __    _                                   
+print(Panel.fit("""
+                                 __    _                                   
                             _wr""        "-q__              
                           _dP                 9m_     
                         _#P                     9#_      
