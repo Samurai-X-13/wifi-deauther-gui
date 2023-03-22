@@ -1,0 +1,2 @@
+def location():
+	print("ok")
