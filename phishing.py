@@ -1,2 +1,0 @@
-def phishing():
-	print("ok")
